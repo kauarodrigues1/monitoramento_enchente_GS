@@ -11,6 +11,9 @@
 
 Este projeto tem como objetivo **prevenir enchentes** em áreas de risco por meio do monitoramento contínuo do nível da água. Utilizamos um **sensor ultrassônico de distância** conectado a um **ESP32**, que mede a altura da água em tempo real. Os dados são enviados para o **Orion Context Broker (FIWARE)** e visualizados em um **dashboard interativo** desenvolvido com **Dash e Plotly**.
 
+![Esquema do Projeto](assets/img1.jpg)
+
+
 Além disso, o sistema conta com:
 
 - **LED vermelho**, que acende quando o nível da água está alto (indicando risco de enchente).
