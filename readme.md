@@ -6,6 +6,11 @@
 - **Gustavo Naoto**
 
 ---
+### Links:
+
+Youtube: https://youtu.be/_qfl7nQdot8
+wokwi: https://wokwi.com/projects/432313695852112897
+Github: https://github.com/kauarodrigues1/monitoramento_enchente_GS
 
 ## 📌 Descrição do Projeto
 
